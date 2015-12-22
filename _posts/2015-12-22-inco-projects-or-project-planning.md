@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.incoprojects.com/services/planning'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - progress
   - diagnostics
 description: InCo Projects website
-datePublished: '2015-12-22T23:03:33.790Z'
-dateModified: '2015-12-22T23:02:43.047Z'
+datePublished: '2015-12-22T23:36:00.815Z'
+dateModified: '2015-12-22T23:35:56.158Z'
 author: []
 related: []
 app_links: []
 title: 'InCo Projects | Project Planning'
+sourcePath: _posts/2015-12-22-inco-projects-or-project-planning.md
+published: true
 authors: []
 publisher:
   name: Incoprojects
   domain: www.incoprojects.com
   url: 'http://www.incoprojects.com'
   favicon: null
-sourcePath: _posts/2015-12-22-inco-projects-or-project-planning.md
-published: true
+url: inco-projects-or-project-planning/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
