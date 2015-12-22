@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - progress
   - diagnostics
 description: InCo Projects website
-datePublished: '2015-12-22T23:36:00.815Z'
-dateModified: '2015-12-22T23:35:56.158Z'
+datePublished: '2015-12-22T23:39:15.217Z'
+dateModified: '2015-12-22T23:39:11.991Z'
 author: []
 related: []
 app_links: []
