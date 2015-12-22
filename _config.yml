@@ -1,0 +1,28 @@
+name: 4D BIM User Group
+favicon: null
+layout_spectrum: 0.9042770373634994
+typography_spectrum: 0.7129729161970317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.29663907759822905
+  lightness: 0.5344899918418378
+  saturation: 0.7246213131584227
+  rhythmicContrast: 0.9361414245795459
+purpose: []
